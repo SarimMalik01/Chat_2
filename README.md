@@ -98,10 +98,10 @@ npm start
 ![Chat Interface](./Images/Chat_Mode.png)
 
 ### Online Status
-![Online Status](./Images/Chat_Light.png)
+![Online Status](./Images/Chat_Light_Single.png)
 
 ### Dark Mode
-![Online Status](./Images/Chat_Dark.png)
+![Online Status](./Images/Chat_Dark_single.png)
 
 ### Chat Home
 ![Dark Mode](./Images/Chat_home.png)
